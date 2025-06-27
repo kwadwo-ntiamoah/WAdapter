@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Wadapter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+433385187f9950da6763debc7c7ba65a1a77b437")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+39bb5e54122407a008e6b5c60fb7f68aa0c7d246")]
 [assembly: System.Reflection.AssemblyProductAttribute("Wadapter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Wadapter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

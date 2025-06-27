@@ -1,0 +1,45 @@
+# generate gitignore
+# Build Folders
+bin/
+obj/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Logs
+*.log
+
+# Visual Studio Code
+.vs/
+.vscode/
+
+# Rider
+.idea/
+*.sln.iml
+
+# DotNet Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+
+# Backup files
+*.bak
+*.swp
+
+# Temporary files
+~$*
+*.tmp
+*.temp
+*.TMP
+
+# OS generated files
+.DS_Store
+Thumbs.db
